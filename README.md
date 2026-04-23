@@ -1,5 +1,5 @@
 # Secret Scanner CLI Final
-
+Recording of my scanner working: https://drive.google.com/file/d/1X3s5omffvNhelCp2WMqM5xZnDszcn4Iu/view?usp=drive_link
 ## Overview
 This project is a Python based command line tool that scans a file or directory for possible hardcoded secrets. It uses regular expressions to detect token and key formats commonly associated with exposed credentials.
 
